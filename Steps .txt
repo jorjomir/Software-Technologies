@@ -1,0 +1,10 @@
+При JavaScript отваряме скелета и там пишем в PowerShell npm install
+отваряме проекта
+оправяме Run-a (Node.js -> javascript file -> bin/www)
+пишем module.exports (controller)
+пишем schema в models
+правин create get и post
+правим edit get и post
+
+В PHP
+v entity task.php pri get i set ne trqbva da ima tipove!
